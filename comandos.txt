@@ -1,0 +1,8 @@
+Compilar: 
+
+cl /EHsc main.cpp Lexer.cpp
+
+Ejecutar:
+
+.\main.exe
+
